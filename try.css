@@ -1,0 +1,23 @@
+.a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: lighter;
+    color: blue;
+    text-align: center;
+}
+
+.b{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    color: blueviolet;
+    text-align: justify;
+}
+
+.c{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(14, 241, 116);
+    text-align: right;
+}
